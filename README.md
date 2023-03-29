@@ -4,7 +4,7 @@ So in this repo I just created a simple todo list to learn the basics of react n
 
 ## Running it on your machine
 
-Make sure to have Node.js installed on your local machine and Expo Go on your Android/IOS phone.
+Make sure to have Node.js installed on your local machine and Expo Go on your Android/IOS phone. After that cd into this folder and follow the following steps.
 
 Step 1:
 Install all the dependencies
