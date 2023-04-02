@@ -17,7 +17,7 @@ Step 2:
 Run the local development server
 
 ```bash
-npm start
+npm run start
 ```
 
 Step 3:
